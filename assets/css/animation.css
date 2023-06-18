@@ -26,7 +26,7 @@
 h1, h2 {
 	opacity: 0;
 }
-h1.animate-off {
+.animate-off {
 	opacity: 1;
 }
 
